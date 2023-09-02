@@ -26,7 +26,7 @@ layout: page
 <h2>Projects</h2>
 
 <ul>
-	<li><a href="[https://github.com/](https://github.com/berfinduman/Mario-Game)">Developing Mario game from zero using sfml library</a></li>
+	<li><a href="https://github.com/berfinduman/Mario-Game">Developing Mario game from zero using sfml library</a></li>
 	<li><a href="https://github.com/">Predicting Prices Using Airbnb Dataset</a></li>
-	<li><a href="[https://github.com/](https://github.com/Hive-Heroes/teknofest_hive_heroes)">Detection of Turkish hate speech on Twitter</a></li>
+	<li><a href="https://github.com/Hive-Heroes/teknofest_hive_heroes">Detection of Turkish hate speech on Twitter</a></li>
 </ul>
