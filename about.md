@@ -4,42 +4,29 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-<p>Lorem Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>Hello, I'm Berfin Duman. I'm studying Electronics and Communication Engineering at ITU and at the same time I'm doing a minor in applied mathematics. During my university life, I aimed to improve myself in the field of software by participating in many national and international competitions by participating in many teams and groups, I gained experience in being a team player, doing R&D with a product target and producing a product as a result.</p>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>As someone who wants to develop his career in the field of artificial intelligence, I have been working in the NLP laboratory of ITU for about a year as an undergraduate student and I have been involved in various researches. In this process, I have experienced writing an article in IEEE format by writing a conference paper.</p>
+
+<p>Now, especially with my last internship, I started working on LLM models, I had the opportunity to experience various nlp tasks using the open source llama2 model.</p>
+
+<p>If you have a job opportunity for me, I will be glad to know about it, you can find my contact details and my CV on the website. If you have any questions, you can also use the communication channels..</p>
 
 <h2>Skills</h2>
 
 <ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Testes)</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
-	<li>Git</li>
-	<li>PHP</li>
 	<li>Python</li>
-	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
+	<li>C++</li>
+	<li>Matlab</li>
+	<li>Scikit-learn</li>
+	<li>Pandas</li>
+	<li>Tensorflow</li>
 </ul>
 
 <h2>Projects</h2>
 
 <ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
+	<li><a href="[https://github.com/](https://github.com/berfinduman/Mario-Game)">Developing Mario game from zero using sfml library</a></li>
+	<li><a href="https://github.com/">Predicting Prices Using Airbnb Dataset</a></li>
+	<li><a href="[https://github.com/](https://github.com/Hive-Heroes/teknofest_hive_heroes)">Detection of Turkish hate speech on Twitter</a></li>
 </ul>
