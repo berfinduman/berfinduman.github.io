@@ -43,8 +43,8 @@ email: berfiinduman@gmail.com
 
 authors:
   johndoe:
-    name: John Doe
-    bio: A Man who travels the world eating noodles
+    name: Berfin Duman
+    bio: ML/DL enthusiast
     external-image: false
     picture: assets/images/profile.jpg
     twitter: johndoe
@@ -52,8 +52,8 @@ authors:
     name: James Foster
     bio: A Man who develops software with coffee
     external-image: false
-    picture: assets/images/james.jpg
-    twitter: jamesfoster
+    #picture: assets/images/james.jpg
+    #twitter: jamesfoster
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
