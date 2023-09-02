@@ -4,7 +4,7 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-<p>Hello, I'm Berfin Duman. I'm studying Electronics and Communication Engineering at ITU and at the same time I'm doing a minor in applied mathematics. During my university life, I aimed to improve myself in the field of software by participating in many national and international competitions by participating in many teams and groups, I gained experience in being a team player, doing R&D with a product target and producing a product as a result.</p>
+<p>Hello, I'm Berfin Duman.I'm studying Electronics and Communication Engineering at ITU and at the same time I'm doing a minor in applied mathematics. During my university life, I aimed to improve myself in the field of software by participating in many national and international competitions by participating in many teams and groups, I gained experience in being a team player, doing R&D with a product target and producing a product as a result.</p>
 
 <p>As someone who wants to develop his career in the field of artificial intelligence, I have been working in the NLP laboratory of ITU for about a year as an undergraduate student and I have been involved in various researches. In this process, I have experienced writing an article in IEEE format by writing a conference paper.</p>
 
